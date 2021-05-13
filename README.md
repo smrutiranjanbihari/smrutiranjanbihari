@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kali Linux
 - 💞️ I’m looking to collaborate on Kali Linux
 - 📫 How to reach me ...
-Email - smrutiranjanbihari@protonmail.com
+Email - smrutiscareer2016@outlook.com
 
 <!---
 smrutiranjanbihari/smrutiranjanbihari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
